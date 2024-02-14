@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alexander<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/><br>💻I'm a novice fullstack developer</h1>
+<h1 align="center">Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/><br>💻I'm Alexander, a novice fullstack developer</h1>
 
 <h1 align="center">
 
